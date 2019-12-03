@@ -1,0 +1,2 @@
+# Java Multithreaded Chat application Using Socket Programing
+ Multi-threaded chat Application in Java  Multi-threaded chat Application in Java (Server Side Programming) The server runs an infinite loop to keep accepting incoming requests. When a request comes, it assigns a new thread to handle the communication part. The sever also stores the client name into a vector, to keep a track of connected devices. Till now all examples in socket programming assume that client first sends some information and then server ... Java implementation for multithreaded chat client.
